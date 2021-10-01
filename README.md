@@ -1,4 +1,4 @@
-Esta es una aplicacion API RESTFULL en Go, que satisface la interface en formato JSON.
+Esta es una aplicacion API RESTFUL en Go, que satisface la interface en formato JSON.
 
 =======================================================================
 
